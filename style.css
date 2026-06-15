@@ -5,7 +5,7 @@
 }
 
 body {
-    margin: 0;
+    margin: 50;
     font-family: viafont;
     background-image: url(background.png);
     background-repeat: no-repeat;
@@ -15,5 +15,11 @@ body {
 
     p, h1 {
     color: Thistle;
-        }
+    text-align: center;
+    }
+
+    h2 {
+    color: thistle;
+    text-align: center;
+    }
 }
