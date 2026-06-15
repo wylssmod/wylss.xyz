@@ -1,11 +1,19 @@
-html {
-    background-color: black;
-}
+@font-face {
+    font-family: viafont;
+    src: url(Viafont.ttf)
 
-p, h1 {
-    color: Thistle;
 }
 
 body {
+    margin: 20;
+    font-family: viafont;
     background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    p, h1 {
+    color: Thistle;
+        }
 }
