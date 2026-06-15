@@ -5,3 +5,7 @@ html {
 p, h1 {
     color: Thistle;
 }
+
+body {
+    background-image: url(background.png);
+}
