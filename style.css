@@ -13,13 +13,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
 
-    p, h1 {
+    p, h1, h2 {
     color: Thistle;
-    text-align: center;
-    }
-
-    h2 {
-    color: thistle;
     text-align: center;
     }
 }
